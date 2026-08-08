@@ -1,6 +1,6 @@
 # 🎓 Student Data Warehouse & Data Mart Pipeline
 
-Proyek ini membangun **data pipeline (ETL)** berlapis menggunakan **Apache Airflow** untuk mengonsolidasikan data mahasiswa yang tersebar di berbagai sumber (data lake) menjadi satu data mart terpadu yang siap dianalisis, lengkap dengan mekanisme **data freshness check** untuk menjamin kualitas data sebelum diproses.
+Project ini membangun **data pipeline (ETL)** berlapis menggunakan **Apache Airflow** untuk mengonsolidasikan data mahasiswa yang tersebar di berbagai sumber (data lake) menjadi satu data mart terpadu yang siap dianalisis, lengkap dengan mekanisme **data freshness check** untuk menjamin kualitas data sebelum diproses.
 
 ## 🧱 Arsitektur & Alur Data
 
